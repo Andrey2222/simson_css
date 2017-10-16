@@ -8,43 +8,139 @@
 .family {
 	display: inline-block;
 	vertical-align: bottom;
-	margin-left: 40px;
+	margin-left: 50px;
+	margin-top: 200px;
+	box-shadow: -30px -20px 40px black;
 }
 
 .marg {
-	width: 60px;
-	height: 600px;
+	width: 50px;
+	
+}
+
+.gomer {
+	width: 80px;
+
+}
+
+.bart {
+	width: 53px;
+}
+
+.liza {
+	width: 53px;
+}
+
+.chiald {
+	width: 53px;
 }
 
 .had {
-	width: 60px;
+	
 	height: 150px;
 	background-color: blue;
 }
 
 .faice {
-	width: 60px;
+	
 	height: 50px;
 	background-color: #CCCC33;
 }
 
 .tors {
-	width: 60px;
+	
 	height: 140px;
 	background-color: #5C9C32;
 	
 }
 
 .lag {
-	width: 60px;
+	
 	height: 30px;
 	background-color: #CCCC33;
 }
 
 .shous {
-	width: 60px;
+	
 	height: 30px;
 	background-color: #C33354;
 }
 
+.gomer .had {
+	height: 60px;
+	background-color: #CCCC33;
+}
 
+.gomer .faice {
+	height: 30px;
+	background-color: #BDB76B;
+}
+
+.gomer .tors {
+	height: 95px;
+	background-color: white;
+}
+.gomer .lag {
+	height: 95px;
+	background-color: blue;
+}
+
+.gomer .shous {
+	height: 30px;
+	background-color: #808080;
+}
+
+.bart .had {
+	height: 65px;
+	background-color: #CCCC33;
+}
+
+.bart .faice {
+	height: 30px;
+	background-color: #FF8C00;
+}
+
+.bart .tors {
+	height: 30px;
+	background-color: blue;
+}
+
+.bart .lag {
+	height: 30px;
+	background-color: #CCCC33;
+}
+
+.bart .shous {
+	height: 30px;
+	background-color: blue;
+}
+
+.liza .had {
+	height: 65px;
+	background-color: #CCCC33;
+}
+
+.liza .tors {
+	height: 60px;
+	background-color: #CD5C5C;
+}
+
+.liza .lag {
+	height: 30px;
+	background-color: #CCCC33;
+}
+
+.liza .shous {
+	height: 30px;
+	background-color: #CD5C5C;
+}
+
+.chiald .had {
+	height: 65px;
+	background-color: #CCCC33;
+}
+
+.chiald .tors {
+	height: 65px;
+	background-color: #00BFFF;
+}
