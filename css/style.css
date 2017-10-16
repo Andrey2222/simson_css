@@ -1,0 +1,50 @@
+.fon {
+	width: 1300px;
+	height: 800px;
+	background-color: #CC33CC;
+
+}
+
+.family {
+	display: inline-block;
+	vertical-align: bottom;
+	margin-left: 40px;
+}
+
+.marg {
+	width: 60px;
+	height: 600px;
+}
+
+.had {
+	width: 60px;
+	height: 150px;
+	background-color: blue;
+}
+
+.faice {
+	width: 60px;
+	height: 50px;
+	background-color: #CCCC33;
+}
+
+.tors {
+	width: 60px;
+	height: 140px;
+	background-color: #5C9C32;
+	
+}
+
+.lag {
+	width: 60px;
+	height: 30px;
+	background-color: #CCCC33;
+}
+
+.shous {
+	width: 60px;
+	height: 30px;
+	background-color: #C33354;
+}
+
+
